@@ -7,7 +7,6 @@ I am a **Information Systems** student at the **Federal University of Itajubá (
 - 🏫 **Information Systems** student at **UNIFEI**.
 - 🌐 Interested in **web** and **mobile development**, always looking to expand my knowledge in these areas.
 - 🚀 Constantly learning new **frameworks** and **technologies** to stay up-to-date with market trends.
-- 🎮 I have an interest in **CTF** (Capture the Flag) challenges and continuously work on improving my problem-solving skills.
 
 
 
