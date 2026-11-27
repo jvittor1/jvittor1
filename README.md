@@ -20,5 +20,5 @@ I am a **Information Systems** student at the **Federal University of Itajubá (
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-batista/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6961.svg?logo=firefox&logoColor=white)](https://jvittor1.github.io/Portifolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6961.svg?logo=firefox&logoColor=white)](https://portifolio-joao-vitor.vercel.app/)
 
